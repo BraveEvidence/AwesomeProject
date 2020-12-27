@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AwesomeProject</string>
+    <color name="colorBackground">#FFFF5500</color>
+    <color name="colorPaint">#FFFFEB3B</color>
+    <color name="transparent">#FFFFFFFF</color>
+
+</resources>
